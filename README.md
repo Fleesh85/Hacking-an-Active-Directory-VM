@@ -154,6 +154,8 @@ It can also compromise the confidentiality, integrity, and availability of an or
 <img src="https://i.imgur.com/c5IQkio.png" height="80%" width="80%" alt="Project4"/>
 <br />
 <br />
+ ### [Demonstration Credential Dumping ](https://youtu.be/eBQ7tkBQKQQ))
+ 
 After Kirk successfully cracked Anton’s password he decided to execute his plan.
 
 Having access to the admin privileges he was able to turn off his virus protection settings and anything that could detect his actions.
