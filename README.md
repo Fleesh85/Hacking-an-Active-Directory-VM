@@ -175,6 +175,9 @@ Having access to the admin privileges he was able to turn off his virus protecti
 <img src="https://i.imgur.com/x5n4VRa.png" height="80%" width="80%" alt="Project4"/>
 <br />
 <br />
+
+ [Demonstration Pass-the-Hash](https://youtu.be/apYz6Yw24fg)
+ 
 Pass-the-hash is another way to access the server without having a clear text password and can be done remotely. When entering the command line example in the demonstration it sends a request to the server and the server authenticates it with the stolen hash and grants permissions to move laterally to admin.
 
 - The syntax he will use for this one is sekurlsa::pth /user:antbargo /domain:projectdomain.com /ntlm: paste the hash (SEKURLSA::Pth is for - Pass- the-Hash and Over-Pass-the-Hash. He entered the user, domain and hash to gain access to Antonio’s admin account. He is now in. 
