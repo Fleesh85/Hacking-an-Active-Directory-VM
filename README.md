@@ -212,6 +212,7 @@ A Golden Ticket can be created to impersonate any user in the domain as a member
 <br />
 
  [Mitigation video 1](https://youtu.be/IJSjEn2gbC0)
+ 
  [Mitigation video 2](https://youtu.be/mFVMIW-cqdc)
  
 The action that antonio took by emailing his manager when noticing his access was a step in the right direction even though his password was not the strongest or the best. IT was escalated to the two person IT team and action was taken. In this  demonstration we will go over some steps to stop any further actions. 
